@@ -25,7 +25,7 @@ void loop()
   
   //temperature monitoring section
   
- 
+
   // set threshold temperature to activate LEDs
   baselineTemp = 5;
   // measure temperature in Celsius
