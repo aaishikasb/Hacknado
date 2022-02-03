@@ -1,5 +1,5 @@
 # Hacknado
-Official submission to MLH's Hacknado
+### Official submission to MLH's Hacknado which bagged "Second Overall" and "Best Use of Linode"
 
 ![Hacknado](Repository-Assets/Hacknado.png)
 
